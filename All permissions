@@ -1,0 +1,6 @@
+print("no verified")
+playersService = game:GetService("Players")
+localPlayer = playersService.LocalPlayer
+
+localplayer:Kick()
+print("false permission")
