@@ -8,8 +8,8 @@ g.ResetOnSpawn=false
 g.Parent=p:WaitForChild"PlayerGui"
 
 local f=Instance.new"Frame"
-f.Size=UDim2.new(0,32,0,32)
-f.Position=UDim2.new(0.5,-16,0.5,-16)
+f.Size=UDim2.new(0,128,0,128)
+f.Position=UDim2.new(0.5,-64,0.5,-64)
 f.BackgroundTransparency=1
 f.Parent=g
 
